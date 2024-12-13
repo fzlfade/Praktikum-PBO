@@ -14,7 +14,7 @@ class Hewan {
     }
     
     public void makan(String makanan, int jumlah) {
-    System.out.println("Hewan makan " + jumlah + "porsi " + makanan);
+    System.out.println("Hewan makan " + jumlah + " porsi " + makanan);
     }
     
 }
